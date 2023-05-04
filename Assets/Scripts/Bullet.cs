@@ -57,7 +57,6 @@ public class Bullet : MonoBehaviourPun
                     target.RPC("YouKilledBy", GotKilled, killerName);
                     target.RPC("YouKilled", localPlayerObj.GetComponent<PhotonView>().Owner, target.Owner.NickName);
                 }
-            }else {
             }
             this.GetComponent<PhotonView>().RPC("Destroy", RpcTarget.AllBuffered);
         }
