@@ -1,434 +1,434 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1683214412501916, "dur":1466, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412503407, "dur":869, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
-,{ "pid":12345, "tid":0, "ts":1683214412504356, "dur":36, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
-,{ "pid":12345, "tid":0, "ts":1683214412504393, "dur":552, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
-,{ "pid":12345, "tid":0, "ts":1683214412504990, "dur":1655, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412506645, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412560209, "dur":42186, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602396, "dur":15, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602411, "dur":26, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602439, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602453, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602457, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602471, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602473, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602482, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602484, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602497, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602499, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602508, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602509, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602519, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602521, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602531, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602551, "dur":14, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412602610, "dur":2122, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1683214412506451, "dur":205, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412506657, "dur":12646, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412519314, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":1, "ts":1683214412519654, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412519751, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":1, "ts":1683214412519825, "dur":413, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412520239, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412520262, "dur":701, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412520965, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412520993, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412521204, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412521243, "dur":619, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412521862, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412521889, "dur":442, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412522332, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412522355, "dur":464, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412522820, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412522842, "dur":293, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412523136, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412523164, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412523387, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412523429, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412523562, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412523746, "dur":393, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412524140, "dur":393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.TextMeshPro.pdb" }}
-,{ "pid":12345, "tid":1, "ts":1683214412524533, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412524576, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Burst.Unsafe.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412524607, "dur":353, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412524961, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412524990, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412525030, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.Tilemap.Extras.pdb" }}
-,{ "pid":12345, "tid":1, "ts":1683214412525171, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412525297, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.PixelPerfect.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412525424, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412525553, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412525575, "dur":467, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412526044, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412526066, "dur":325, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412526392, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412526416, "dur":376, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412526793, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonRealtime.pdb" }}
-,{ "pid":12345, "tid":1, "ts":1683214412526992, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412527203, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412527226, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412527259, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":1, "ts":1683214412527505, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412527581, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":1, "ts":1683214412527711, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412527767, "dur":1436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":1, "ts":1683214412529203, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412529255, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":1, "ts":1683214412529298, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412529322, "dur":11026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":1, "ts":1683214412540380, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":1, "ts":1683214412540415, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1683214412540436, "dur":4774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":1, "ts":1683214412545235, "dur":14974, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412506520, "dur":148, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412506668, "dur":12637, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412519314, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1683214412519404, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412519514, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":2, "ts":1683214412519637, "dur":255, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412519893, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412519960, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412520003, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412520070, "dur":419, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412520490, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412520520, "dur":634, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412521155, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412521202, "dur":426, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412521629, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412521650, "dur":218, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412521871, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412521900, "dur":325, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412522226, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412522247, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412522318, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412522342, "dur":247, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412522590, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412522623, "dur":642, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412523266, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412523410, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412523506, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412523536, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412523584, "dur":622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412524206, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412524250, "dur":657, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412524908, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412524955, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412524977, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412525197, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412525439, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412525485, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.Animation.Runtime.pdb" }}
-,{ "pid":12345, "tid":2, "ts":1683214412525645, "dur":401, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412526047, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412526067, "dur":323, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412526391, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412526421, "dur":488, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412526910, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonChat.dll" }}
-,{ "pid":12345, "tid":2, "ts":1683214412527100, "dur":241, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412527342, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1683214412527384, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1683214412527802, "dur":16871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1683214412544697, "dur":15495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412506561, "dur":114, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412506675, "dur":12626, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412519314, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":3, "ts":1683214412519438, "dur":146, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412519586, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":3, "ts":1683214412519661, "dur":375, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412520037, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":3, "ts":1683214412520163, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412520257, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412520284, "dur":828, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412521113, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412521139, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412521216, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412521244, "dur":597, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412521843, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412521903, "dur":316, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412522220, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412522248, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412522332, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412522364, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412522397, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412522440, "dur":584, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412523025, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412523050, "dur":217, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412523268, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412523401, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412523583, "dur":412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
-,{ "pid":12345, "tid":3, "ts":1683214412523995, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412524044, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412524315, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412524373, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb" }}
-,{ "pid":12345, "tid":3, "ts":1683214412524513, "dur":317, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412524832, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412524855, "dur":403, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412525259, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.PixelPerfect.pdb" }}
-,{ "pid":12345, "tid":3, "ts":1683214412525417, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412525462, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.Common.Runtime.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412525668, "dur":263, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412525932, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412525952, "dur":318, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412526271, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":3, "ts":1683214412526297, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412526455, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonUnityNetworking.pdb" }}
-,{ "pid":12345, "tid":3, "ts":1683214412526661, "dur":367, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412527030, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Photon3Unity3D.pdb" }}
-,{ "pid":12345, "tid":3, "ts":1683214412527054, "dur":403, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412527458, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":3, "ts":1683214412527491, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412528612, "dur":11866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":3, "ts":1683214412540507, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/boot.config" }}
-,{ "pid":12345, "tid":3, "ts":1683214412540694, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1683214412540792, "dur":19403, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412506604, "dur":78, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412506682, "dur":12617, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412519315, "dur":502, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":4, "ts":1683214412519817, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412519879, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":4, "ts":1683214412519948, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412519984, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/WinPixEventRuntime.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412520052, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412520095, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game.exe" }}
-,{ "pid":12345, "tid":4, "ts":1683214412520165, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412520222, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412520245, "dur":1028, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412521278, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412521313, "dur":649, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412521963, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412521987, "dur":467, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412522455, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412522478, "dur":437, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412522916, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412522950, "dur":312, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412523263, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412523402, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412523461, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412523483, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412523543, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412523568, "dur":1144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412524713, "dur":1009, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Burst.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412525722, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412525814, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412525853, "dur":330, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412526184, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412526220, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412526440, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412526660, "dur":242, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412526904, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonChat.pdb" }}
-,{ "pid":12345, "tid":4, "ts":1683214412527098, "dur":235, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412527334, "dur":31861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Plugins/x86_64/lib_burst_generated.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412559205, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1683214412559230, "dur":915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Plugins/x86_64/lib_burst_generated.dll" }}
-,{ "pid":12345, "tid":4, "ts":1683214412560169, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
-,{ "pid":12345, "tid":4, "ts":1683214412560171, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412506648, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412506649, "dur":12647, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519313, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519318, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519395, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/app.info" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519398, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519469, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519560, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519595, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519689, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519773, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":5, "ts":1683214412519855, "dur":338, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412520194, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412520238, "dur":945, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412521183, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412521203, "dur":511, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412521715, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412521745, "dur":185, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412521931, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412521960, "dur":384, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412522345, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412522372, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412522412, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412522427, "dur":469, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412522896, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412522917, "dur":217, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523135, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523163, "dur":211, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523376, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523405, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523458, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523479, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523523, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523543, "dur":369, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523913, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412523939, "dur":664, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412524604, "dur":793, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Burst.pdb" }}
-,{ "pid":12345, "tid":5, "ts":1683214412525398, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412525447, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.Common.Runtime.pdb" }}
-,{ "pid":12345, "tid":5, "ts":1683214412525630, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412525673, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412525694, "dur":589, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412526284, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412526309, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412526333, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412526351, "dur":435, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412526787, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
-,{ "pid":12345, "tid":5, "ts":1683214412527078, "dur":251, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412527331, "dur":643, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Plugins/x86_64/lib_burst_generated.pdb" }}
-,{ "pid":12345, "tid":5, "ts":1683214412527982, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412528044, "dur":12386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Plugins/x86_64/lib_burst_generated.pdb" }}
-,{ "pid":12345, "tid":5, "ts":1683214412540457, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":5, "ts":1683214412540484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1683214412540496, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":5, "ts":1683214412541704, "dur":18485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412506701, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412506701, "dur":12630, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412519331, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":6, "ts":1683214412519448, "dur":390, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412519841, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":6, "ts":1683214412519917, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412519954, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412520030, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412520259, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412520284, "dur":855, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412521140, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412521162, "dur":159, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412521322, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412521346, "dur":477, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412521825, "dur":405, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412522230, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412522310, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412522333, "dur":259, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412522593, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412522627, "dur":409, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412523037, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412523062, "dur":205, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412523268, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412523392, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412523442, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412523466, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412523584, "dur":578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.VisualScripting.Core.pdb" }}
-,{ "pid":12345, "tid":6, "ts":1683214412524163, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412524296, "dur":747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Mathematics.pdb" }}
-,{ "pid":12345, "tid":6, "ts":1683214412525043, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412525093, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb" }}
-,{ "pid":12345, "tid":6, "ts":1683214412525290, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412525411, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.IK.Runtime.pdb" }}
-,{ "pid":12345, "tid":6, "ts":1683214412525558, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412525605, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412525628, "dur":312, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412525942, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Runtime.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412525967, "dur":303, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412526271, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412526297, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412526341, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412526373, "dur":315, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412526689, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonUnityNetworking.Demos.pdb" }}
-,{ "pid":12345, "tid":6, "ts":1683214412526894, "dur":302, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412527197, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":6, "ts":1683214412527222, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412527259, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Assembly-CSharp.pdb" }}
-,{ "pid":12345, "tid":6, "ts":1683214412527441, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412527481, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":6, "ts":1683214412527540, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412529160, "dur":4044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":6, "ts":1683214412533235, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/level1" }}
-,{ "pid":12345, "tid":6, "ts":1683214412533272, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412534460, "dur":5841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/level1" }}
-,{ "pid":12345, "tid":6, "ts":1683214412540368, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/level0" }}
-,{ "pid":12345, "tid":6, "ts":1683214412540418, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1683214412540436, "dur":1002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/level0" }}
-,{ "pid":12345, "tid":6, "ts":1683214412541461, "dur":18730, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412506757, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412506758, "dur":12548, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412519314, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":7, "ts":1683214412519566, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412519604, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1683214412519681, "dur":469, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412520151, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":7, "ts":1683214412520233, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412520345, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412520365, "dur":785, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412521152, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412521189, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412521273, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UNETModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412521301, "dur":507, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412521809, "dur":395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UI.pdb" }}
-,{ "pid":12345, "tid":7, "ts":1683214412522204, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412522249, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412522267, "dur":312, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412522580, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412522598, "dur":430, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412523029, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412523061, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412523254, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412523406, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412523484, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412523503, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412523630, "dur":886, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412524517, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412524562, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412524703, "dur":271, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412524976, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Burst.Cecil.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412525003, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412525042, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412525187, "dur":235, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412525423, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.IK.Runtime.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412525577, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412525640, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412525661, "dur":514, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412526176, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412526196, "dur":233, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412526432, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonUnityNetworking.Utilities.pdb" }}
-,{ "pid":12345, "tid":7, "ts":1683214412526587, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412526631, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonUnityNetworking.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412526837, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412526867, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/PhotonRealtime.dll" }}
-,{ "pid":12345, "tid":7, "ts":1683214412527123, "dur":217, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412527341, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":7, "ts":1683214412527386, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1683214412528329, "dur":14051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":7, "ts":1683214412542405, "dur":17802, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412506800, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412506801, "dur":12531, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412519334, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":8, "ts":1683214412519452, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412519509, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":8, "ts":1683214412519610, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412519655, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":8, "ts":1683214412519724, "dur":430, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412520155, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/websocket-sharp.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412520226, "dur":512, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412520739, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412520794, "dur":412, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412521207, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412521275, "dur":563, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412521839, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412521868, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412521991, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412522013, "dur":564, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412522578, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412522596, "dur":561, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412523158, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412523183, "dur":218, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412523402, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412523428, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412523558, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.VisualScripting.State.pdb" }}
-,{ "pid":12345, "tid":8, "ts":1683214412523720, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412524010, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Timeline.pdb" }}
-,{ "pid":12345, "tid":8, "ts":1683214412524240, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412524363, "dur":1126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.Mathematics.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412525489, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412525548, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412525729, "dur":668, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412526398, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412526427, "dur":616, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412527044, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/Photon3Unity3D.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412527077, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412527118, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":8, "ts":1683214412527140, "dur":212, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412527352, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":8, "ts":1683214412527385, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412527886, "dur":4866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":8, "ts":1683214412532811, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/resources.assets" }}
-,{ "pid":12345, "tid":8, "ts":1683214412532862, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1683214412532910, "dur":7651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/Oidoioi/Multiplayer Game_Data/resources.assets" }}
-,{ "pid":12345, "tid":8, "ts":1683214412540582, "dur":19612, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1683214412606708, "dur":3123, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1686934054270994, "dur":3523, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054274678, "dur":4200, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1686934054279010, "dur":278, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1686934054279289, "dur":891, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1686934054280253, "dur":2134, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054282387, "dur":3, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054350808, "dur":111, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054350919, "dur":76, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054350995, "dur":51, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351047, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351063, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351066, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351077, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351079, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351088, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351090, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351099, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351102, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351111, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351113, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351121, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351123, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351131, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351150, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054351430, "dur":1933, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1686934054281015, "dur":1445, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054282461, "dur":8176, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054290638, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1686934054290766, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054290824, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1686934054290958, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291017, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291157, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291199, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291512, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291566, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291644, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291676, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291711, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291740, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291776, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291800, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291856, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291881, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291912, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291934, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291962, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054291986, "dur":403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054292390, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054292445, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054292684, "dur":279, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054292964, "dur":3344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054296308, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054296333, "dur":2189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1686934054298522, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054298554, "dur":662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054299216, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054299237, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054299263, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054299288, "dur":791, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonUnityNetworking.Utilities.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300079, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300120, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Photon3Unity3D.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300153, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300168, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300188, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300202, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300237, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300270, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300296, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300333, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300356, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054300370, "dur":683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1686934054301053, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054301077, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1686934054301120, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686934054301614, "dur":10605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1686934054325973, "dur":24790, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054280997, "dur":1434, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054282437, "dur":7742, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054290191, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1686934054290196, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054290232, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1686934054290235, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054290253, "dur":860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1686934054291115, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054291163, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game.exe" }}
+,{ "pid":12345, "tid":2, "ts":1686934054291210, "dur":484, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054291695, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054291727, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054291751, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292026, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292064, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292091, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292138, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292167, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292192, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292220, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292246, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292273, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292298, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292326, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292352, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292379, "dur":361, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292741, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292762, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292794, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292813, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292830, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292847, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054292864, "dur":1816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1686934054294680, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054294760, "dur":4962, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686934054299722, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054299745, "dur":696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonRealtime.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1686934054300441, "dur":19, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054300461, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1686934054300507, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054302974, "dur":10307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1686934054313408, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1686934054313500, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686934054313545, "dur":12254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1686934054325819, "dur":24924, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054281007, "dur":1439, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054282447, "dur":7951, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054290401, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1686934054290528, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054290549, "dur":484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1686934054291034, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054291084, "dur":688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054291773, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054291801, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054291861, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054291882, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054291982, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292013, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292138, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292160, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292199, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292232, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292260, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292285, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292313, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292334, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292360, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292389, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292445, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292471, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292761, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292788, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292820, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054292844, "dur":634, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054293479, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054293509, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054293554, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054293572, "dur":1373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1686934054294945, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054294971, "dur":570, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054295541, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054295581, "dur":2718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054298300, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054298346, "dur":752, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.Common.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299098, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299123, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299148, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299164, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299183, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299197, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299215, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299231, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299250, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299268, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299334, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054299391, "dur":991, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonUnityNetworking.Demos.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1686934054300382, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054300417, "dur":35210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Plugins/x86_64/lib_burst_generated.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1686934054335643, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686934054335762, "dur":1339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Plugins/x86_64/lib_burst_generated.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1686934054337128, "dur":13613, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054281048, "dur":1426, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054282474, "dur":8110, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054290585, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1686934054290706, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054290768, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1686934054290989, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291049, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291182, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291226, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291397, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291463, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291505, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291538, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291584, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291609, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291648, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054291859, "dur":2467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054294327, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054294355, "dur":3521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Mathematics.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1686934054297879, "dur":167, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054298051, "dur":982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299033, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299057, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299077, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299104, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299122, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299138, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299172, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299189, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299207, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299225, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299242, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299256, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299289, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299304, "dur":588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299893, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054299916, "dur":541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonChat.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1686934054300457, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054300478, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1686934054300510, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054301483, "dur":22445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1686934054323979, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1686934054324013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054324027, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1686934054325011, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1686934054325054, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054325065, "dur":726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1686934054325809, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1686934054325919, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686934054325968, "dur":24797, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054281091, "dur":1394, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054282485, "dur":8019, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054290505, "dur":418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1686934054290925, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291003, "dur":500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291504, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291551, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291593, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291622, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291673, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291705, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291736, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291763, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291789, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291819, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291866, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291890, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291937, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291961, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054291991, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292023, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292071, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292103, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292161, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292188, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292219, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292247, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292278, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292304, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292328, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292350, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292375, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292420, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292476, "dur":258, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292735, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292753, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292784, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292812, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054292837, "dur":1479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1686934054294316, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054294340, "dur":2515, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054296856, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054296929, "dur":2033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054298963, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054299015, "dur":565, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054299580, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054299603, "dur":915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686934054300518, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054300539, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686934054300627, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054301478, "dur":11280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686934054313421, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686934054313498, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054313545, "dur":6145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686934054319772, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1686934054319824, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686934054319851, "dur":7179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1686934054327049, "dur":23710, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054281146, "dur":1361, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054282508, "dur":7857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054290366, "dur":947, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291315, "dur":260, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291580, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291624, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291658, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291691, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291719, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291754, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291777, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291809, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054291854, "dur":1847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1686934054293702, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054293738, "dur":1218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054294956, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054294989, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054295025, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054295043, "dur":3223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1686934054298267, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054298297, "dur":864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054299161, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054299191, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054299209, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054299223, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054299245, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054299264, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054299295, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054299327, "dur":1053, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054300380, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054300419, "dur":49686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054350114, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686934054350137, "dur":572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686934054350725, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1686934054350727, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054281195, "dur":1321, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054282517, "dur":7664, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054290191, "dur":798, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1686934054290990, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054291081, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054291423, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054291471, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054291510, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054291544, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054291590, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054291615, "dur":412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292028, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292064, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292092, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292138, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292166, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292193, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292220, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292245, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292273, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292298, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292325, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292392, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292708, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292739, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292757, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292773, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292798, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292815, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292834, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054292852, "dur":1274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1686934054294128, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054294180, "dur":1810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1686934054295991, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054296055, "dur":2095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054298151, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054298184, "dur":942, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.IK.Runtime.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299126, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299153, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299173, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299188, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299207, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299222, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299245, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299263, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299293, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299315, "dur":591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonUnityNetworking.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299906, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054299928, "dur":463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054300391, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054300415, "dur":667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686934054301083, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054301118, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1686934054301391, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054301420, "dur":36621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1686934054338042, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686934054338077, "dur":12669, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054281240, "dur":1287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054282527, "dur":7657, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290192, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290295, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290321, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290380, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290409, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290484, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290507, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290592, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290608, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290688, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290710, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290813, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054290858, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1686934054291003, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054291086, "dur":853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1686934054291940, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054291964, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054291992, "dur":354, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054292348, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054292391, "dur":380, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054292772, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054292799, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054292817, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054292836, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054292852, "dur":1935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054294787, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054294812, "dur":925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295738, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295769, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295789, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295807, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295824, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295852, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295868, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295900, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295919, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054295935, "dur":1830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.Tilemap.Extras.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1686934054297770, "dur":273, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054298049, "dur":893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.PixelPerfect.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1686934054298942, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054298968, "dur":772, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/Unity.2D.Animation.Runtime.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1686934054299750, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054299792, "dur":1019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686934054300811, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054300834, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1686934054300861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054301538, "dur":12228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1686934054313789, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1686934054313838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686934054313848, "dur":13662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Hieu/Hieu Hoc/Nam 4/Ky 2/Game Nang Cao/Project/GameApp/Multiplayer Game_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1686934054327529, "dur":23228, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686934054354617, "dur":2786, "ph":"X", "name": "ProfilerWriteOutput" }
 ,
