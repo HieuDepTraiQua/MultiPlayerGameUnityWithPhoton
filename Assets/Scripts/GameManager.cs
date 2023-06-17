@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public TMP_Text pingrate;
     public TMP_Text spawnTime;
     public GameObject respawnUI;
+    public GameObject settingUI;
     public GameObject waitingUI;
     private float TimeAmount = 5;
     private bool startRespawn;
@@ -142,6 +143,13 @@ public class GameManager : MonoBehaviourPunCallbacks
     {
         PhotonNetwork.LeaveRoom();
         PhotonNetwork.LoadLevel(0);
+    }
+
+    public void ReturnToGame(){
+        settingUI.SetActive(false);
+    }
+    public void ShowSetting(){
+        settingUI.SetActive(true);
     }
 
     public override void OnPlayerEnteredRoom(Player player)

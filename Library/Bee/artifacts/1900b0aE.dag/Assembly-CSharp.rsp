@@ -409,6 +409,7 @@
 "Assets/Scripts/MenuManager.cs"
 "Assets/Scripts/RoomListing.cs"
 "Assets/Scripts/RoomNameButton.cs"
+"Assets/Scripts/SoundManager.cs"
 "Assets/Scripts/TimeOut.cs"
 "Assets/Scripts/WaitingScreen.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
