@@ -25,6 +25,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     private Character playerScript;
     private int playerCount = 0;
     private bool isSpawn = false;
+    private bool isDisplayWaiting = true;
 
     [HideInInspector]
     public GameObject LocalPlayer;
@@ -83,13 +84,13 @@ public class GameManager : MonoBehaviourPunCallbacks
 
         if (isSpawn)
         {
-            if (playerCount > 1)
+            if (playerCount < 2 && isDisplayWaiting)
             {
-                waitingUI.SetActive(false);
+                waitingUI.SetActive(true);
             }
             else
             {
-                waitingUI.SetActive(true);
+                waitingUI.SetActive(false);
             }
         }
 
@@ -127,10 +128,13 @@ public class GameManager : MonoBehaviourPunCallbacks
         if (LeaveScreen.activeSelf)
         {
             LeaveScreen.SetActive(false);
+            isDisplayWaiting = true;
         }
         else
         {
             LeaveScreen.SetActive(true);
+            isDisplayWaiting = false;
+            waitingUI.SetActive(false);
         }
     }
 

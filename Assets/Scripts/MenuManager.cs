@@ -8,9 +8,10 @@ using TMPro;
 public class MenuManager : MonoBehaviourPunCallbacks
 {  
     // Start is called before the first frame update
-    [SerializeField] private GameObject userNameScreen, connectScreen, roomListUI;
+    [SerializeField] private GameObject userNameScreen, connectScreen, roomListUI, selectMapUI;
     [SerializeField] private GameObject createUserNameButton;
     [SerializeField] private TMP_InputField usernameInput, createRoomInput, joinRoomInput;
+    private int mapSelect;
 
     void Awake() {
         PhotonNetwork.ConnectUsingSettings();  
@@ -28,7 +29,7 @@ public class MenuManager : MonoBehaviourPunCallbacks
 
     public override void OnJoinedRoom(){
         //Play game screen
-        PhotonNetwork.LoadLevel(1);
+        PhotonNetwork.LoadLevel(mapSelect);
     }
 
     #region UIMethods 
@@ -37,8 +38,9 @@ public class MenuManager : MonoBehaviourPunCallbacks
         if (usernameInput.text.Length >= 2)
         PhotonNetwork.NickName = usernameInput.text;
         userNameScreen.SetActive(false);
-        connectScreen.SetActive(true);
-        roomListUI.SetActive(true);
+        // connectScreen.SetActive(true);
+        // roomListUI.SetActive(true);
+        selectMapUI.SetActive(true);
     }
 
     public void OnNameField_Chnaged(){
@@ -57,6 +59,19 @@ public class MenuManager : MonoBehaviourPunCallbacks
 
     public void OnClick_CreateRoom(){
         PhotonNetwork.CreateRoom(createRoomInput.text, new RoomOptions{MaxPlayers = 4}, null);
+    }
+
+    public void OnClick_SelectMap_1(){
+        mapSelect = 1;
+        connectScreen.SetActive(true);
+        roomListUI.SetActive(true);
+        selectMapUI.SetActive(false);
+    }
+    public void OnClick_SelectMap_2(){
+        mapSelect = 2;
+        connectScreen.SetActive(true);
+        roomListUI.SetActive(true);
+        selectMapUI.SetActive(false);
     }
 
     #endregion

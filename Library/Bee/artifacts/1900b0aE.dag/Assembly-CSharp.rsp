@@ -410,6 +410,7 @@
 "Assets/Scripts/RoomListing.cs"
 "Assets/Scripts/RoomNameButton.cs"
 "Assets/Scripts/TimeOut.cs"
+"Assets/Scripts/WaitingScreen.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
